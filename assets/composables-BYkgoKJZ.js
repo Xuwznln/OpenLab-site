@@ -1,0 +1,1 @@
+import{Zt as e,nt as t}from"./_plugin-vue_export-helper-CRO0dx8O.js";import{V as n}from"./index-WDyaG4UX.js";function r(){let r=e(n,null);return r===null&&t(`use-dialog`,`No outer <n-dialog-provider /> founded.`),r}export{r as t};

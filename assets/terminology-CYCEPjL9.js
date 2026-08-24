@@ -1,0 +1,1 @@
+var e={site:`库位`,siteOccupancy:`库位占用`,siteAdmission:`库位准入`,siteIndex:`库位号`,handle:`连接点`,upstreamOutputs:`上游输出连接点`};export{e as t};
